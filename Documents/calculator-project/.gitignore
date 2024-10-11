@@ -1,0 +1,4 @@
+ 
+# Ignore everything in AppData
+AppData/
+*.bin

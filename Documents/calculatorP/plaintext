@@ -1,0 +1,11 @@
+calculator/
+├── src/
+│   ├── calculator.py          # Main calculator logic
+│   ├── config.py              # Configuration settings
+│   ├── history_manager.py     # Handles history storage
+|   ├── main.py                    # Entry point to run calculator
+├── tests/
+│   └── test_calculator.py     # Tests for calculator functions
+├── .env                       # Environment variables for configuration
+├── requirements.txt           # Dependencies list
+└── README.md                  # Project documentation
